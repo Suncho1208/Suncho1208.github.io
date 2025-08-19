@@ -145,8 +145,8 @@ author:
       url: "https://www.linkedin.com/in/andrew-cho-30609b293/"
 
 # Site Footer
-footer:
-  links: false
+#footer:
+  #links: false
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -166,7 +166,9 @@ footer:
      # icon: "fab fa-fw fa-instagram"
       # url:
 #  since: "2013"
-
+footer:
+  links: []
+  content: ""
 
 # Reading Files
 include:

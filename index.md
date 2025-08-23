@@ -6,8 +6,7 @@ author_profile: true
 
 # Projects
 
-Welcome! I’m Sun Cho, a Data Science student at Boston University.  
-Here’s a selection of projects I’ve worked on:
+SWE Intern @ Glynac | Data Science @ Boston University | ML and Computer Vision
 
 <div class="grid__wrapper">
 
